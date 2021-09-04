@@ -372,12 +372,9 @@ h6 {
 }
 
 .contacts {
-	padding: 50px 0px 50px 0px;
+	padding: 35px 0px 35px 0px;
 }
 
-.contacts__header-block {
-	margin: 0px 0px 50px 0px;
-}
 
 .contacts__body {
 	display: flex;
@@ -411,6 +408,8 @@ h6 {
 	margin: 0px 0px 25px 0px;
 }
 
+
+
 .contacts__email {
 	font-size: 14px;
 }
@@ -433,12 +432,12 @@ h6 {
 .form-contacts__row {
 	display: flex;
 	font-size: 0;
-	margin: 0px -15px 70px -15px;
+	margin: 0px -15px 40px -15px;
 }
 
 .form-contacts__column {
 	flex: 0 1 50%;
-	padding: 0px 15px;
+	padding: 0px 10px;
 }
 
 .form-contacts__label {
@@ -546,7 +545,7 @@ h6 {
 }
 
 .header-block__title {
-	font-size: 34px;
+	font-size: 25px;
 	font-weight: 700;
 	letter-spacing: 8.95px;
 	text-transform: uppercase;
@@ -647,10 +646,11 @@ h6 {
 	}
 
 	.menu_mb {
-		margin: 0px 0px 50px 0px;
+		margin: 0px 0px 0px 0px;
 	}
 
 	.about__title {
+		
 		font-size: 18px;
 		margin: 0px 0px 25px 0px;
 	}
@@ -664,11 +664,12 @@ h6 {
 	}
 
 	.news__filter {
-		margin: 0px 0px 50px 0px;
+		margin: 0px 0px 10px 0px;
 	}
 
 	.contacts {
-		padding: 20px 0px 20px 0px;
+		padding: 5px 0px 0px 0px;
+		margin: 10px ;
 	}
 
 	.contacts__header-block {
@@ -683,7 +684,7 @@ h6 {
 	}
 
 	.menu_mb {
-		margin: 0px 0px 30px 0px;
+		margin: 0;
 	}
 
 	.menu__list {
@@ -725,7 +726,7 @@ h6 {
 	}
 
 	.contacts {
-		padding: 30px 0px 30px 0px;
+		padding: 30px 0px 0px 0px;
 	}
 
 	.contacts__header-block {
